@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresConsoleApp1", "PresConsoleApp1\PresConsoleApp1.csproj", "{414920F2-B31C-46A5-99BB-BF030FFCA355}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradeCalculator", "GradeCalculator\GradeCalculator.csproj", "{64487F4D-C0B1-4C82-84F3-FCE50D0CA4B7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{414920F2-B31C-46A5-99BB-BF030FFCA355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{414920F2-B31C-46A5-99BB-BF030FFCA355}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{414920F2-B31C-46A5-99BB-BF030FFCA355}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{414920F2-B31C-46A5-99BB-BF030FFCA355}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64487F4D-C0B1-4C82-84F3-FCE50D0CA4B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64487F4D-C0B1-4C82-84F3-FCE50D0CA4B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64487F4D-C0B1-4C82-84F3-FCE50D0CA4B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64487F4D-C0B1-4C82-84F3-FCE50D0CA4B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {230F8767-4EC4-46EB-8FA6-566D2D236494}
+		SolutionGuid = {9B00D35F-F64B-475A-B2D1-B0D2B359D4A3}
 	EndGlobalSection
 EndGlobal
